@@ -1,0 +1,16 @@
+{
+  "name": "federal_bank_pup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.38",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^20.7.2"
+  }
+}
